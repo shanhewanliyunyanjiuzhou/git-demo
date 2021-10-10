@@ -11,5 +11,5 @@ sdadai
 ssdadpp
 ssdadpp
 ssdadpp
-ssdadp
-sdadp
+ssdadp         master
+sdadp          hot-fix
